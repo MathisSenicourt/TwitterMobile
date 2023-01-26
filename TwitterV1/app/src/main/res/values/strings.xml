@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwitterV1</string>
+    <string name="recherche">Recherche</string>
+    <string name="utilisateur">\@utilisateur</string>
+</resources>
